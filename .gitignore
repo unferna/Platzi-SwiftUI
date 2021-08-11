@@ -1,0 +1,4 @@
+*.xcuserdatad
+xcuserdata/
+Platzi.xcodeproj/project.xcworkspace/xcuserdata
+Platzi.xcodeproj/xcshareddata
