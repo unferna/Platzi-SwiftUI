@@ -20,6 +20,9 @@
 		A8A1B9AE26C34182001DC87B /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1B9AD26C34182001DC87B /* Dividers.swift */; };
 		A8A1B9B026C34375001DC87B /* HorizontalStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1B9AF26C34375001DC87B /* HorizontalStack.swift */; };
 		A8A1B9B226C35A60001DC87B /* ZStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1B9B126C35A60001DC87B /* ZStacks.swift */; };
+		A8F3848426C48401002FDB0C /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3848326C48401002FDB0C /* TabViews.swift */; };
+		A8F3848626C484F7002FDB0C /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3848526C484F7002FDB0C /* Navigations.swift */; };
+		A8F3848826C48997002FDB0C /* CustomPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3848726C48997002FDB0C /* CustomPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +62,9 @@
 		A8A1B9AD26C34182001DC87B /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
 		A8A1B9AF26C34375001DC87B /* HorizontalStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalStack.swift; sourceTree = "<group>"; };
 		A8A1B9B126C35A60001DC87B /* ZStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStacks.swift; sourceTree = "<group>"; };
+		A8F3848326C48401002FDB0C /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
+		A8F3848526C484F7002FDB0C /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
+		A8F3848726C48997002FDB0C /* CustomPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,9 +124,12 @@
 				A8A1B9AD26C34182001DC87B /* Dividers.swift */,
 				A8A1B9AF26C34375001DC87B /* HorizontalStack.swift */,
 				A8A1B9B126C35A60001DC87B /* ZStacks.swift */,
+				A8F3848326C48401002FDB0C /* TabViews.swift */,
 				A8A1B97E26C330FC001DC87B /* Assets.xcassets */,
 				A8A1B98326C330FC001DC87B /* Info.plist */,
 				A8A1B98026C330FC001DC87B /* Preview Content */,
+				A8F3848526C484F7002FDB0C /* Navigations.swift */,
+				A8F3848726C48997002FDB0C /* CustomPlayer.swift */,
 			);
 			path = Platzi;
 			sourceTree = "<group>";
@@ -285,9 +294,12 @@
 				A8A1B9B226C35A60001DC87B /* ZStacks.swift in Sources */,
 				A8A1B9AE26C34182001DC87B /* Dividers.swift in Sources */,
 				A8A1B97B26C330FA001DC87B /* PlatziApp.swift in Sources */,
+				A8F3848826C48997002FDB0C /* CustomPlayer.swift in Sources */,
 				A8A1B9AA26C338A8001DC87B /* Images.swift in Sources */,
+				A8F3848426C48401002FDB0C /* TabViews.swift in Sources */,
 				A8A1B9A626C3317B001DC87B /* TextMod.swift in Sources */,
 				A8A1B9A826C33515001DC87B /* Buttons.swift in Sources */,
+				A8F3848626C484F7002FDB0C /* Navigations.swift in Sources */,
 				A8A1B9AC26C33C62001DC87B /* TextFields.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
